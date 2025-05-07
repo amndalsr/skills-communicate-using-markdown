@@ -11,3 +11,9 @@
 ###### Smallest header
 
 ![Alt text: Octocat with Yak horns](https://octodex.github.com/images/yaktocat.png)
+
+```javascript
+function greet(name) {
+  return `Hello, ${name}!`;
+}
+```
